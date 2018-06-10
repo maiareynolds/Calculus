@@ -1,10 +1,11 @@
-y1=x1**2
-y2=x2**2
-lim=10000000000000000000000000000
+#Maia Reynolds
+#Calculus Final
 
-x1=1
-x2=2
-
-fx=(y2-y1)/(x2-x1)
-
-limit derivative RAM Newton Euler Length of a curve Taylor Polynomial Convergence/Divergence Tests
+#Limit
+#Derivative
+#RAM
+#Newton's Method
+#Euler's
+#Length of a Curve
+#Taylor Polynomial
+#Convergence/Divergence Tests
